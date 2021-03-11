@@ -6,6 +6,7 @@ Repository for backend of interactive chat with automated answers. There is no a
 
 -   node.js
 -   express.js
+-   nodemon
 
 ##### To run project locally, clone repository:
 
