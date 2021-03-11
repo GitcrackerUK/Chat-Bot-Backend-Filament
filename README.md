@@ -14,7 +14,17 @@ Repository for backend of interactive chat with automated answers. There is no a
 -   express.js
 -   nodemon (dev)
 -   cors
-
+#### Directory
+```
+├── package.json
+├── package-lock.json
+├── README.md
+├── routes
+│   ├── firstOptions.js
+│   └── welcome.js
+├── server.js
+└── store.js
+```
 ##### To run project locally, pull repository:
 
 ```
