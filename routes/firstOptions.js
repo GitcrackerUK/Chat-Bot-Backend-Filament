@@ -11,6 +11,7 @@ const opt5 = require('../store').opt5;
 //route to handle users first choice
 router.route('/').post((req, res) => {
     let response = {};
+
     // conditional used to respond with right set of options accordingly to choose option by user.
     // can be use switch to assign right set of options to "response"
     let choiceNum = req.body.answer;
