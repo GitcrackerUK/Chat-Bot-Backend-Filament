@@ -35,6 +35,7 @@ node server.js
 
 #### To Do:
 
+-   authentication and logging
+-   create visual road map of interaction with bot and possible routes accordingly to requests.
 -   <s> create server</s>
 -   <s>choose customer like recruitment, retail, transport to use as set of rules for bot</s>
--   create visual road map of interaction with bot and possible routes accordingly to requests.
