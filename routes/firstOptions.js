@@ -1,10 +1,14 @@
 const router = require('express').Router();
+
+// imported objects with further options for user to choose
 const opt1 = require('../store').opt1;
 const opt2 = require('../store').opt2;
 const opt3 = require('../store').opt3;
 const opt4 = require('../store').opt4;
 const opt5 = require('../store').opt5;
-// imported objects with further options for user to choose
+//
+
+//route to handle users first choice
 router.route('/').post((req, res) => {
     let response = {};
     // conditional used to respond with right set of options accordingly to choose option by user.
@@ -24,4 +28,5 @@ router.route('/').post((req, res) => {
     res.send(response);
 });
 
+//export router so route can be imported in server.js and used in app.use()
 module.exports = router;

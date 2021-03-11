@@ -12,7 +12,7 @@ Repository for backend of interactive chat with automated answers. There is no a
 
 -   node.js
 -   express.js
--   nodemon
+-   nodemon (dev)
 -   cors
 
 ##### To run project locally, pull repository:
