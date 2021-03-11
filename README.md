@@ -27,6 +27,12 @@ git pull https://github.com/GitcrackerUK/Chat-Bot-Backend-Filament.git
 npm install
 ```
 
+##### Run server
+
+```
+node server.js
+```
+
 #### To Do:
 
 -   <s> create server</s>
