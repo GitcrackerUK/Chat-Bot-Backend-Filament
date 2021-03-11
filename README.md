@@ -2,6 +2,12 @@
 
 Repository for backend of interactive chat with automated answers. There is no acces to AI interaction.
 
+#### Requirments
+
+-   demonstrate your approach to module reuse and structure.
+-   provide an HTTP based API that includes authentication and logging.
+-   demonstrates options for different response types.
+
 #### Stack/dependencies used in project:
 
 -   node.js
