@@ -15,7 +15,7 @@ Repository for backend of interactive chat with automated answers. There is no a
 -   nodemon
 -   cors
 
-##### To run project locally, clone repository:
+##### To run project locally, pull repository:
 
 ```
 git pull https://github.com/GitcrackerUK/Chat-Bot-Backend-Filament.git
@@ -29,6 +29,6 @@ npm install
 
 #### To Do:
 
--   create server
+-   <s> create server</s>
 -   choose customer like recruitment, retail, transport to use as set of rules for bot
 -   create visual road map of interaction with bot and possible routes accordingly to requests.
