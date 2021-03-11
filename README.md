@@ -30,5 +30,5 @@ npm install
 #### To Do:
 
 -   <s> create server</s>
--   choose customer like recruitment, retail, transport to use as set of rules for bot
+-   <s>choose customer like recruitment, retail, transport to use as set of rules for bot</s>
 -   create visual road map of interaction with bot and possible routes accordingly to requests.
