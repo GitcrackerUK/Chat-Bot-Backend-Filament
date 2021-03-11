@@ -7,7 +7,7 @@ Repository for backend of interactive chat with automated answers. There is no a
 - express.js
 ##### To run project localy, clone repository:
 ```
-git pull 
+git pull https://github.com/GitcrackerUK/Chat-Bot-Backend-Filament.git
 ```
 ##### Install dependecies
 ```
