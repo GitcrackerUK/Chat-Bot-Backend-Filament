@@ -5,7 +5,7 @@ App has basic functionality like express server which runs and handles two route
 Routes and responses:
 
 -   Route '/' "welcome" sends greetings and 5 options to choose from
--   Route '/firstOptions' handles response on first set of options and creates new possible branches
+-   Route '/firstOptions' handles response of first set of options and creates new possible branches
 
 #### Requirments
 
