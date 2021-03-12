@@ -64,7 +64,7 @@ node server.js
         -   session
         -   mongoose
         -   errorHandler
-    -   create folders with files:
+    -   create folders with files for authentication:
         -   config
         -   models
         -   routes
