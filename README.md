@@ -1,6 +1,6 @@
 # Chat-Bot Backend
 
-Repository for backend of interactive chat with automated answers. There is no acces to AI interaction.
+Repository for backend of interactive chat with automated answers.
 
 #### Requirments
 
