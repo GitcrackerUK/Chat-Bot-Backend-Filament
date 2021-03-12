@@ -14,7 +14,18 @@ Repository for backend of interactive chat with automated answers. There is no a
 -   express.js
 -   nodemon (dev)
 -   cors
+-   path
+-   mongoose
+-   passport
+-   passport-local
+-   errorhandler
+-   express-session
+-   express-jwt
+-   jsonwebtoken
+-   morgan
+
 #### Directory
+
 ```
 ├── package.json
 ├── package-lock.json
@@ -25,6 +36,7 @@ Repository for backend of interactive chat with automated answers. There is no a
 ├── server.js
 └── store.js
 ```
+
 ##### To run project locally, pull repository:
 
 ```
@@ -46,6 +58,20 @@ node server.js
 #### To Do:
 
 -   authentication and logging
+    -   install dependencies
+        -   path
+        -   passport
+        -   session
+        -   mongoose
+        -   errorHandler
+    -   create folders with files:
+        -   config
+        -   models
+        -   routes
+-   create route to handle user input
+    -   create object with key words
+    -   create functionality to filter user input for keyword
+    -   create functionality to respond accordingly to keyword
 -   create visual road map of interaction with bot and possible routes accordingly to requests.
 -   <s> create server</s>
 -   <s>choose customer like recruitment, retail, transport to use as set of rules for bot</s>
