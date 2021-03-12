@@ -32,11 +32,17 @@ Routes and responses:
 #### Directory
 
 ```
+.
+├── config
+│   └── passport.js
+├── models
+│   └── User.model.js
 ├── package.json
 ├── package-lock.json
 ├── README.md
 ├── routes
 │   ├── firstOptions.js
+│   ├── User.js
 │   └── welcome.js
 ├── server.js
 └── store.js
