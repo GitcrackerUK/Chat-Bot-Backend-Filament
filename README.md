@@ -1,7 +1,7 @@
 # Chat-Bot Backend
 
 Repository for backend of interactive chat with automated answers.
-App has basic functionality like express server which runs and handles two routes with set of responses accordingly to request.
+App has basic functionality like express server which runs and handles two routes with set of responses accordingly to request.\
 Routes and responses:
 
 -   Route '/' "welcome" sends greetings and 5 options to choose from
